@@ -1,47 +1,59 @@
-# Hi, I'm Roman 👋
-A software engineer enthusiastic about crafting scalable web applications, exploring new technologies, and automating DevOps processes.
+<h1 align="center">Hi 👋, I'm Majdi</h1>
+<h3 align="center">Hi everyone, I'm Majdi from Tunisia. I study at the Engineering University of Information Technology at TEKUP. Currently, I'm pursuing a degree in software engineering.</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majdifkih&show_icons=true&locale=en" alt="majdifkih" /></p>
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=majdifkih&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=majdifkih&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/majdifkih/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=majdifkih&layout=compact"/></a>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majdifkih" alt="majdifkih" /></a> </p>
+
+ <h3 align="left">Studies:</h3>
+*   Bachelor's in Computer Engineering, specializing in Internet of Things
+*   Engineer specializing in Software Engineering
+
+- 📫 How to reach me **majdifkih123@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/majdi-fkih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/majdi-fkih/" height="30" width="40" /></a>
 </p>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/majdifkih/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:majdifkih123@gmail.com'>majdifkih123@gmail.com</a>
-</p>
+<h3 align="left">My opensource projects:</h3> 
 
+*   [Nodejs Project](https://github.com/Abdelkaderbh/ProjetNodeJs) - Room Reservation web Application.
+*   [Symfony Project](https://github.com/Abdelkaderbh/RecrutementWebApp) - Recruitment web Application.
+*   [SpringBoot Project](https://github.com/majdifkih/LocationVoiture-SpringBoot) - car rental API Server.
+*   [React & electron Project](https://github.com/App-Desktop-Federation-ReactJS-) - Federation Management Desktop Application.
+*   [Bachelor's End of Studies Project](https://github.com/Fleet_Tracking-Final-ReactJS-) - Federation Management Desktop Application.
 
-### Key points
-*   Creator of [CodeGym Community](https://github.com/codegymcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   I write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+<h3 align="left">Languages:</h3>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+   
+<h3 align="left">Web Tools:</h3>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+   <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
+   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+      <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
+  <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
-## 🛠 Technology Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data JPA, Spring JDBC template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeler
-*   GitHub/GitLab/Gerrit/Bitbucket
+<h3 align="left">Databaeses:</h3>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 
-### My opensource projects
+<h3 align="left">Devops Tools:</h3>
+   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
-*   [image-comparison](https://github.com/majdifkih/image-comparison) - Published on Maven Central Java Library; it compares 2 images of the same size and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [CodeGym TelegramBot](https://github.com/codegymcommunity/codegym-telegrambot) - CodeGym Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=majdifkih&color=DE002D">
-   </a>
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=majdifkih&label=Profile%20views&color=0e75b6&style=flat" alt="majdifkih" /> </p>
