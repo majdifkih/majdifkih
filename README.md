@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Majdi</h1>
 <h3 align="center">Hi everyone, I'm Majdi from Tunisia. I study at the Engineering University of Information Technology at TEKUP. Currently, I'm pursuing a degree in software engineering.</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majdifkih&show_icons=true&locale=en" alt="majdifkih" /></p>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majdifkih" alt="majdifkih" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majdifkih&show_icons=true&locale=en" alt="majdifkih" /> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majdifkih" alt="majdifkih" /></a> </p>
 
  <h3 align="left">Studies:</h3>
 *   Bachelor's in Computer Engineering, specializing in Internet of Things
 
 *   Engineer specializing in Software Engineering
-*   
+  
 
 - 📫 How to reach me **majdifkih123@gmail.com**
 
@@ -58,4 +56,9 @@
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=majdifkih&label=Profile%20views&color=0e75b6&style=flat" alt="majdifkih" /> </h3>
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/majdifkih/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=majdifkih&color=DE002D">
+   </a>
+</div>
