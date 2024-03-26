@@ -4,12 +4,13 @@
    <a href="https://github.com/majdifkih/github-profile-views-counter">
        <img src="https://komarev.com/ghpvc/?username=majdifkih&label=Profile%20views&color=0e75b6&style=flat" alt="majdifkih" />
    </a>
-<p align="center">&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majdifkih" alt="majdifkih" /></a> </p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majdifkih" alt="majdifkih" /></a> </p>
 
  <h3 align="left">Studies:</h3>
-* Bachelor's in Computer Engineering, specializing in Internet of Things &nbsp;
-* Engineer specializing in Software Engineering
-  
+<ul>
+    <li>Bachelor's in Computer Engineering, specializing in Internet of Things</li>
+    <li>Engineer specializing in Software Engineering</li>
+</ul> 
 
 📫 How to reach me **majdifkih123@gmail.com**
 
