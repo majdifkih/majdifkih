@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Majdi</h1>
 <h3 align="center">Hi everyone, I'm Majdi from Tunisia. I study at the Engineering University of Information Technology at TEKUP. Currently, I'm pursuing a degree in software engineering.</h3>
-<div align="center" style="margin: 40px 0">
+<div align="left" style="margin: 40px 0">
    <a href="https://github.com/majdifkih/github-profile-views-counter">
        <img src="https://komarev.com/ghpvc/?username=majdifkih&label=Profile%20views&color=0e75b6&style=flat" alt="majdifkih" />
    </a>
+   </div>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majdifkih" alt="majdifkih" /></a> </p>
 
  <h3 align="left">Studies:</h3>
@@ -61,4 +62,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=majdifkih&show_icons=true&locale=en" alt="majdifkih" /> 
 
-</div>
+
