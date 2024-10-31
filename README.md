@@ -9,11 +9,14 @@
 
  <h3 align="left">Studies:</h3>
 <ul>
-    <li>Bachelor's in Computer Engineering, specializing in Internet of Things</li>
+    <li>Master in seance infromatique, specializing in software engineering</li>
     <li>Engineer specializing in Software Engineering</li>
+    <li>Bachelor's in Computer Engineering, specializing in Internet of Things
+    <p>Engineer specializing in Software Engineering</p>
+    </li>
 </ul> 
 
-📫 How to reach me **majdifkih123@gmail.com**
+📫 How to reach me **Majdi.FEKIHSALEM@tek-up.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
