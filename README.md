@@ -10,7 +10,8 @@
  <h3 align="left">Studies:</h3>
 <ul>
     <li>Master in seance infromatique, specializing in software engineering</li>
-    <li>Engineer specializing in Software Engineering</li>
+    <p>Engineer specializing in Software Engineering</p>
+</li>
     <li>Bachelor's in Computer Engineering, specializing in Internet of Things
     <p>Engineer specializing in Software Engineering</p>
     </li>
